@@ -1,0 +1,158 @@
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 77.111.246.31
+IP Type              : IPv4
+User OS              : Windows 8.1
+Version              : 6.3;
+Browser              : Chrome
+Location             : Washington, United States, North America
+GeoLocation(lat, lon): 38.9071923, -77.0368707
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 191.99.70.48
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Manta, Ecuador, South America
+GeoLocation(lat, lon): -0.9676533, -80.7089101
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Windows 8.1
+User Agent           : Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+Version              : 6.3;
+Browser              : Chrome
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 2001:67c:2628:647:8::17a
+IP Type              : IPv6
+User OS              : Windows 8.1
+User Agent           : Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+Version              : 6.3;
+Browser              : Chrome
+Location             : Ashburn, United States, North America
+GeoLocation(lat, lon): 39.0437567, -77.4874416
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Windows 8.1
+User Agent           : Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+Version              : 6.3;
+Browser              : Chrome
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Windows 8.1
+Version              : 6.3;
+Browser              : Chrome
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+
+IP                   : 186.47.74.234
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Quito, Ecuador, South America
+GeoLocation(lat, lon): -0.1806532, -78.4678382
+Currency             : US Dollar
+

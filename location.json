@@ -1,0 +1,47 @@
+[
+  {
+    "Latitude": "-0.9580874\u00b0",
+    "Longitude": "-80.736675\u00b0",
+    "Google Map": "https",
+    "Altitude": "0m",
+    "Accuracy": "4827.710858935487",
+    "Speed": "0m/s",
+    "Direction": "0\u00b0"
+  },
+  {
+    "Latitude": "-0.9484438\u00b0",
+    "Longitude": "-80.7454976\u00b0",
+    "Google Map": "https",
+    "Altitude": "32.98931884765625m",
+    "Accuracy": "100",
+    "Speed": "0m/s",
+    "Direction": "0\u00b0"
+  },
+  {
+    "Latitude": "-0.9483761\u00b0",
+    "Longitude": "-80.7454716\u00b0",
+    "Google Map": "https",
+    "Altitude": "57.10000228881836m",
+    "Accuracy": "14.64900016784668",
+    "Speed": "0.3499999940395355m/s",
+    "Direction": "115\u00b0"
+  },
+  {
+    "Latitude": "-0.9484756\u00b0",
+    "Longitude": "-80.7454076\u00b0",
+    "Google Map": "https",
+    "Altitude": "0m",
+    "Accuracy": "24.903",
+    "Speed": "0m/s",
+    "Direction": "0\u00b0"
+  },
+  {
+    "Latitude": "-0.9483459940026576\u00b0",
+    "Longitude": "-80.74537172002793\u00b0",
+    "Google Map": "https",
+    "Altitude": "37.71973482519388m",
+    "Accuracy": "4.748206562703061",
+    "Speed": "0m/s",
+    "Direction": "0\u00b0"
+  }
+]
